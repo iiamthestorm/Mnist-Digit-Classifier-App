@@ -20,18 +20,9 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.tensorflow.lite.digitclassifier.PreAug"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="com.tensorflow.lite.digitclassifier.HomePage"
             android:exported="true" />
         <activity
-            android:name="com.tensorflow.lite.digitclassifier.PostAug"
+            android:name="com.tensorflow.lite.digitclassifier.HomePage"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -39,6 +30,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.tensorflow.lite.digitclassifier.PostAug"
+            android:exported="true" />
         <activity
             android:name="com.divyanshu.draw.activity.DrawingActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar" />

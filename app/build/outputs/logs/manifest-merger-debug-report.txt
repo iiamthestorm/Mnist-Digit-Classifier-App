@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ASUS\.gradle\caches\transforms-3\fa1bb1592ccb5d1755563779a70d04a7\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\ASUS\.gradle\caches\transforms-3\67126faeef021d299a500225454ae9ab\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\ASUS\.gradle\caches\transforms-3\5691501db262094fa95fcdeebab74bd6\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -44,22 +44,22 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ASUS\.gradle\cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\502953a7816c8984cbb8a8d917dd65d3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\a6a8bd71604b79765b08373e86e3fad7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ASUS\.gradle\caches\transforms-3\5ea88003299db64e02d06ce16b44c729\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:4:5-50
 		INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml
-		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml
-		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:2:11-69
@@ -159,7 +159,7 @@ INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManife
 		MERGED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:6:5-17
 		INJECTED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:8:5-37:19
+ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:8:5-31:19
 MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ASUS\.gradle\caches\transforms-3\fa1bb1592ccb5d1755563779a70d04a7\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ASUS\.gradle\caches\transforms-3\fa1bb1592ccb5d1755563779a70d04a7\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\ASUS\.gradle\caches\transforms-3\67126faeef021d299a500225454ae9ab\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
@@ -193,29 +193,29 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\AS
 	android:theme
 		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.tensorflow.lite.digitclassifier.PreAug
-ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:16:9-24:20
+ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:16:9-18:39
 	android:exported
 		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:18:13-36
 	android:name
 		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:17:13-35
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:19:13-23:29
-action#android.intent.action.MAIN
-ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:20:17-69
-	android:name
-		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:20:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:22:17-77
-	android:name
-		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.tensorflow.lite.digitclassifier.HomePage
-ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:25:9-27:39
+ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:exported
-		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:27:13-36
+		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:26:13-37
+		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:20:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.tensorflow.lite.digitclassifier.PostAug
-ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:28:9-36:20
+ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:28:9-30:39
 	android:exported
 		ADDED from C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:30:13-36
 	android:name
