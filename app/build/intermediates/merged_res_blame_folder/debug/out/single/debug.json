@@ -20,16 +20,20 @@
         "source": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
+        "merged": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
         "merged": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon.webp.flat",
+        "source": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\src\\main\\res\\drawable\\app_icon.webp"
     },
     {
         "merged": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
@@ -50,10 +54,6 @@
     {
         "merged": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pre_aug.xml.flat",
         "source": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\src\\main\\res\\layout\\activity_pre_aug.xml"
-    },
-    {
-        "merged": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
-        "source": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\src\\main\\res\\drawable\\icon.png"
     },
     {
         "merged": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",

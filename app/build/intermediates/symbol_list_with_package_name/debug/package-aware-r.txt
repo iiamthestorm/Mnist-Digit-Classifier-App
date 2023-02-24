@@ -1686,6 +1686,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable app_icon
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -1722,7 +1723,6 @@ drawable ic_opacity_black_24dp
 drawable ic_redo_black_24dp
 drawable ic_send_black_24dp
 drawable ic_undo_black_24dp
-drawable icon
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp

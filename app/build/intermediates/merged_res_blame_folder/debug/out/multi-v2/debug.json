@@ -508,22 +508,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\values-watch-v20_values-watch-v20.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\a965d0ea0a34d9301c3f4799ec60f4aa\\transformed\\appcompat-1.3.0\\res\\values-watch-v20\\values-watch-v20.xml",
-                    "from": {
-                        "startLines": "2,5,8",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,214,385",
-                        "endLines": "4,7,10",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "209,380,553"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rXC_values-en-rXC.arsc.flat",
             "map": [
                 {
@@ -551,6 +535,22 @@
                         "startOffsets": "5714",
                         "endColumns": "203",
                         "endOffsets": "5913"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\res\\merged\\debug\\values-watch-v20_values-watch-v20.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\a965d0ea0a34d9301c3f4799ec60f4aa\\transformed\\appcompat-1.3.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
                     }
                 }
             ]
