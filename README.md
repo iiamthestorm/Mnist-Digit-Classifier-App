@@ -5,7 +5,7 @@ and heressssssss123456789101112123456789101112131415
 # Digit Classifier App
 
 ## What is this App?  
-The app is a handwritten digit image classifier based on the **MNIST dataset**. It offers **two distinct features** for classifying images, one **without data augmentation** and the other **with data augmentation**. This app mostly just for researching purposes. Don't expect the UI will be awesome HEHE.
+The app is a mobile handwritten digit image classifier based on the **MNIST dataset**. It offers **two distinct features** for classifying images, one **without data augmentation** and the other **with data augmentation**. This app mostly just for researching purposes. Don't expect the UI will be awesome HEHE.
 
 ## What is inside of this Repo?
 **This Repo contains** the source code, assets, and resources needed to build and run the app. You can also Download the apk yourself.  
