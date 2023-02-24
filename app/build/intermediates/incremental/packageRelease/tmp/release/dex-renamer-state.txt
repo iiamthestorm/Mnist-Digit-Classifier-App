@@ -1,0 +1,4 @@
+#Fri Feb 24 21:31:26 ICT 2023
+base.0=C\:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

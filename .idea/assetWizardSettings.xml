@@ -79,8 +79,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\res\drawable\Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset.png" />
-                                                <entry key="scalingPercent" value="101" />
+                                                <entry key="imagePath" value="C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\res\drawable\app_icon.webp" />
+                                                <entry key="scalingPercent" value="75" />
                                               </map>
                                             </option>
                                           </PersistentState>
