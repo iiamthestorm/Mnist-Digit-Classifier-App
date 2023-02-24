@@ -1,64 +1,87 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="org.tensorflow.lite.after_data_aug_mnist.digitclassifier"
+3    package="com.tensorflow.lite.DigitClassifier"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-7-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:6:3-15
+7-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:6:5-17
 8        android:minSdkVersion="21"
-8-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:6:3-15
+8-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:6:5-17
 9        android:targetSdkVersion="33" />
-9-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:6:3-15
+9-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:6:5-17
 10
 11    <application
-11-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:8:3-24:17
+11-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:8:5-37:19
 12        android:allowBackup="true"
-12-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:9:11-37
+12-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:9:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.5.0] C:\Users\ASUS\.gradle\caches\transforms-3\e0b495cb6816887fc9f2f407b47f8864\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:10:11-45
+15-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:10:9-43
 16        android:label="@string/app_name"
-16-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:11:11-43
+16-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:11:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:12:11-56
+17-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:12:9-54
 18        android:supportsRtl="true"
-18-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:13:11-37
+18-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:13:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:14:11-42
+20-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:14:9-40
 21        <activity
-21-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:17:5-23:16
-22            android:name="org.tensorflow.lite.codelabs.digitclassifier.MainActivity"
-22-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:17:15-43
+21-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:16:9-24:20
+22            android:name="com.tensorflow.lite.digitclassifier.PreAug"
+22-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:17:13-35
 23            android:exported="true" >
-23-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:18:15-38
+23-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:18:13-36
 24            <intent-filter>
-24-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:19:7-22:23
+24-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:19:13-23:29
 25                <action android:name="android.intent.action.MAIN" />
-25-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:20:9-60
-25-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:20:17-58
+25-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:20:17-69
+25-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:20:25-66
 26
 27                <category android:name="android.intent.category.LAUNCHER" />
-27-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:21:9-68
-27-->C:\Rei\SKRIPSI\ALL\Model_andro\after-data-aug\app\src\main\AndroidManifest.xml:21:19-66
+27-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:22:17-77
+27-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:22:27-74
 28            </intent-filter>
 29        </activity>
 30        <activity
-30-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ASUS\.gradle\caches\transforms-3\fa1bb1592ccb5d1755563779a70d04a7\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:12:9-14:66
-31            android:name="com.divyanshu.draw.activity.DrawingActivity"
-31-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ASUS\.gradle\caches\transforms-3\fa1bb1592ccb5d1755563779a70d04a7\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:13:13-71
-32            android:theme="@style/Theme.AppCompat.NoActionBar" />
-32-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ASUS\.gradle\caches\transforms-3\fa1bb1592ccb5d1755563779a70d04a7\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:14:13-63
-33
-34        <meta-data
-34-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\0cca1134e00dc81edfddcb44df3208ae\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
-35            android:name="com.google.android.gms.version"
-35-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\0cca1134e00dc81edfddcb44df3208ae\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
-36            android:value="@integer/google_play_services_version" />
-36-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\0cca1134e00dc81edfddcb44df3208ae\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
-37    </application>
+30-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:25:9-27:39
+31            android:name="com.tensorflow.lite.digitclassifier.HomePage"
+31-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:26:13-37
+32            android:exported="true" />
+32-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:27:13-36
+33        <activity
+33-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:28:9-36:20
+34            android:name="com.tensorflow.lite.digitclassifier.PostAug"
+34-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:29:13-36
+35            android:exported="true" >
+35-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:30:13-36
+36            <intent-filter>
+36-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:19:13-23:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:20:17-69
+37-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:20:25-66
 38
-39</manifest>
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:22:17-77
+39-->C:\Rei\SKRIPSI\ALL\App\Digit Classifier\app\src\main\AndroidManifest.xml:22:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ASUS\.gradle\caches\transforms-3\fa1bb1592ccb5d1755563779a70d04a7\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:12:9-14:66
+43            android:name="com.divyanshu.draw.activity.DrawingActivity"
+43-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ASUS\.gradle\caches\transforms-3\fa1bb1592ccb5d1755563779a70d04a7\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:13:13-71
+44            android:theme="@style/Theme.AppCompat.NoActionBar" />
+44-->[com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ASUS\.gradle\caches\transforms-3\fa1bb1592ccb5d1755563779a70d04a7\transformed\jetified-AndroidDraw-v0.1\AndroidManifest.xml:14:13-63
+45
+46        <meta-data
+46-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\0cca1134e00dc81edfddcb44df3208ae\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+47            android:name="com.google.android.gms.version"
+47-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\0cca1134e00dc81edfddcb44df3208ae\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+48            android:value="@integer/google_play_services_version" />
+48-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\ASUS\.gradle\caches\transforms-3\0cca1134e00dc81edfddcb44df3208ae\transformed\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+49    </application>
+50
+51</manifest>

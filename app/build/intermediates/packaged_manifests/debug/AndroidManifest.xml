@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.tensorflow.lite.after_data_aug_mnist.digitclassifier"
+    package="com.tensorflow.lite.DigitClassifier"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -19,7 +19,19 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="org.tensorflow.lite.codelabs.digitclassifier.MainActivity"
+            android:name="com.tensorflow.lite.digitclassifier.PreAug"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tensorflow.lite.digitclassifier.HomePage"
+            android:exported="true" />
+        <activity
+            android:name="com.tensorflow.lite.digitclassifier.PostAug"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

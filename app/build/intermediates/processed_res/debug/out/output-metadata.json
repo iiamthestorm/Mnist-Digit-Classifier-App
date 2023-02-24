@@ -4,7 +4,7 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "org.tensorflow.lite.after_data_aug_mnist.digitclassifier",
+  "applicationId": "com.tensorflow.lite.DigitClassifier",
   "variantName": "processDebugResources",
   "elements": [
     {

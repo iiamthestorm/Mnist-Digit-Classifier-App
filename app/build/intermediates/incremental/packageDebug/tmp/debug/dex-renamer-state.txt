@@ -1,7 +1,7 @@
-#Thu Feb 23 18:46:47 ICT 2023
-base.1=C\:\\Rei\\SKRIPSI\\ALL\\Model_andro\\after-data-aug\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+#Fri Feb 24 19:03:04 ICT 2023
+base.1=C\:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
-base.0=C\:\\Rei\\SKRIPSI\\ALL\\Model_andro\\after-data-aug\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.0=C\:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

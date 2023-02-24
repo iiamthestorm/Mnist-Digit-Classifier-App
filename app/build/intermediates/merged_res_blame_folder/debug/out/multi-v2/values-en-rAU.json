@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Rei\\SKRIPSI\\ALL\\Model_andro\\after-data-aug\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "outputFile": "C:\\Rei\\SKRIPSI\\ALL\\App\\Digit Classifier\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\e0b495cb6816887fc9f2f407b47f8864\\transformed\\core-1.5.0\\res\\values-en-rAU\\values-en-rAU.xml",
